@@ -1,0 +1,2 @@
+# CLI Based weather application
+A CLI-based weather application is a command-line tool that allows users to retrieve and display weather information directly in the terminal. It typically uses a weather API (such as OpenWeatherMap) to fetch real-time weather data like temperature, humidity, wind speed, and weather conditions for a specified location. Users can input a city or location name, and the application returns weather details in a text-based format, making it lightweight and easy to use from the command line without a graphical interface.
